@@ -10,7 +10,7 @@ var passport =require('passport');
 var LocalStrategy = require('passport-local').Strategy;
 var mongo = require('mongodb');
 var mongoose = require('mongoose');
-mongoose.connect('mongodb://engr_mikolo:f@mikolo10@ds021761.mlab.com:21761/mikolodb');
+mongoose.connect('mongodb://engr_mikolo:f_mikolo10@ds021761.mlab.com:21761/mikolodb');
 var db = mongoose.connection;
 
 var routes = require('./routes/index');

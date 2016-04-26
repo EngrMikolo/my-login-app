@@ -1,0 +1,9 @@
+{
+	
+	"name": "App.js is Getting Started",
+	"description": "A barebones Node.js app using Express 4",
+	"repository": "https://github.com/EngrMikolo/my-login-app.git",
+	"logo": "",
+    "keywords": ["node","express","static"],
+    "image": ""
+}
